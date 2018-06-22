@@ -1,4 +1,4 @@
- # This script logs onto ACI. But HTTP must be turned on the APIC first.
+  This script logs onto ACI. But HTTP must be turned on the APIC first.
 
 import requests
 
