@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 
 def devices():
@@ -21,3 +22,5 @@ if __name__ == "__main__":
 
 	print "All data is"
 	combined()
+
+
